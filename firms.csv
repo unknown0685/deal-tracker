@@ -1,0 +1,27 @@
+slug,name,type,ticker
+evercore,Evercore,Elite boutique,EVR
+centerview,Centerview Partners,Elite boutique,private
+pjt,PJT Partners,Elite boutique,PJT
+lazard,Lazard,Elite boutique / asset mgmt,LAZ
+moelis,Moelis & Company,Elite boutique,MC
+perella-weinberg,Perella Weinberg Partners,Elite boutique,PWP
+guggenheim,Guggenheim Securities,Elite boutique,private
+qatalyst,Qatalyst Partners,Elite boutique (tech),private
+goldman-sachs,Goldman Sachs,Bulge bracket,GS
+morgan-stanley,Morgan Stanley,Bulge bracket,MS
+jpmorgan,J.P. Morgan,Bulge bracket,JPM
+blackstone,Blackstone,Alt manager: PE / RE / credit,BX
+kkr,KKR,Alt manager: PE / infra / credit,KKR
+apollo,Apollo Global Management,Alt manager: credit / PE,APO
+carlyle,Carlyle,Alt manager: PE / credit,CG
+tpg,TPG,Alt manager: PE / growth / impact,TPG
+bain-capital,Bain Capital,PE,private
+thoma-bravo,Thoma Bravo,PE (software),private
+silver-lake,Silver Lake,PE (tech),private
+hellman-friedman,Hellman & Friedman,PE,private
+warburg-pincus,Warburg Pincus,PE (growth / buyout),private
+advent,Advent International,PE,private
+eqt,EQT,Alt manager: PE / infra,EQT (Stockholm)
+brookfield,Brookfield,Alt manager: RE / infra / renewables,BN / BAM
+starwood,Starwood Capital,Real estate PE,private
+ares,Ares Management,Alt manager: credit / RE / PE,ARES
